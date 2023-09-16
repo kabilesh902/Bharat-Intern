@@ -43,18 +43,14 @@ To run the quiz app, follow these steps:
 1. Ensure you have Python and Tkinter (for GUI) installed on your computer.
 2. Clone this repository to your local machine.
 3. Navigate to the quiz app directory.
-4. Run the `quiz_app.py` script using Python.
+4. Run the `Quiz.py` script using Python.
 
 ## Contributing
 
 Contributions are welcome! If you have suggestions, bug reports, or would like to improve the projects, please feel free to submit pull requests.
 
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-If you have any questions or need assistance, you can contact me at [your_email@example.com](mailto:your_email@example.com).
+If you have any questions or need assistance, you can contact me at [Kabileshkabilesh902@gamil.com](mailto:kabileshkabilesh902@gmail.com).
 
 Thank you for visiting the BharatIntern repository!
